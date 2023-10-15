@@ -1,4 +1,4 @@
-package com.example.springapp;
+package com.example.testspringapp;
 
 public class ResponseData {
 
